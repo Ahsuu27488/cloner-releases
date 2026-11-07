@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://muse.ai/files/1378455528684967/1188433343507216/d2j6sx1a4sxgzmhrs1gqhv0b/app-debug.apk",
+  "notes": "Pehli updater wali build: M0 crash fix + auto-update andar. Purani app EK dafa uninstall karke ye install karo (signature badal gaya tha). Iske baad saare updates app ke andar se aayenge — LAUNCH wala retest bhi isi build pe hoga."
+}
