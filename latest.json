@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://muse.ai/files/1378455528684967/2401823583923733/znbcimu88n0rgj3o5cb34paa/app-debug.apk",
-  "notes": "Attempt-2 fix: guest ka fragment host bhi attach hota hai ab (No activity crash ka fix), aur diagnostic screen pe hosting report bhi aayegi. Ye pehli build hai jo tumhe APP KE ANDAR update se milegi — DOWNLOAD & INSTALL dabao, phir LAUNCH test karo."
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "apkUrl": "https://muse.ai/files/1378455528684967/1607649093907764/fwx95u4ck9ism364j01bvv5a/app-debug.apk",
+  "notes": "M1 build: engine ab split-APK apps ke liye tayyar hai — SplitResolver, guest registry (USB se guests folder mein app daalo, RESCAN karo), generalized launch. Dashboard mein GUESTS list aayegi. Pehle LAUNCH hello se regression check karna, phir asal app ka test hoga."
 }
