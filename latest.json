@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.3.0",
-  "apkUrl": "https://muse.ai/files/1378455528684967/1607649093907764/fwx95u4ck9ism364j01bvv5a/app-debug.apk",
-  "notes": "M1 build: engine ab split-APK apps ke liye tayyar hai — SplitResolver, guest registry (USB se guests folder mein app daalo, RESCAN karo), generalized launch. Dashboard mein GUESTS list aayegi. Pehle LAUNCH hello se regression check karna, phir asal app ka test hoga."
+  "versionCode": 5,
+  "versionName": "0.3.1",
+  "apkUrl": "https://muse.ai/files/1378455528684967/1440276687607074/v39x4m1loxgiqne1d03rr8qt/app-debug.apk",
+  "notes": "TikTok launch fix #1: guest classloader ab host se alag, seedha boot classloader ke neeche hai (VerifyError wali takrar ka fix). Diagnostic ab root cause sab se upar dikhayegi. Update karke phir LAUNCH TIKTOK dabana hai."
 }
