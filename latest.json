@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://muse.ai/files/1378455528684967/1188433343507216/d2j6sx1a4sxgzmhrs1gqhv0b/app-debug.apk",
-  "notes": "Pehli updater wali build: M0 crash fix + auto-update andar. Purani app EK dafa uninstall karke ye install karo (signature badal gaya tha). Iske baad saare updates app ke andar se aayenge — LAUNCH wala retest bhi isi build pe hoga."
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://muse.ai/files/1378455528684967/2401823583923733/znbcimu88n0rgj3o5cb34paa/app-debug.apk",
+  "notes": "Attempt-2 fix: guest ka fragment host bhi attach hota hai ab (No activity crash ka fix), aur diagnostic screen pe hosting report bhi aayegi. Ye pehli build hai jo tumhe APP KE ANDAR update se milegi — DOWNLOAD & INSTALL dabao, phir LAUNCH test karo."
 }
