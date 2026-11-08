@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.1",
-  "apkUrl": "https://muse.ai/files/1378455528684967/1440276687607074/v39x4m1loxgiqne1d03rr8qt/app-debug.apk",
-  "notes": "TikTok launch fix #1: guest classloader ab host se alag, seedha boot classloader ke neeche hai (VerifyError wali takrar ka fix). Diagnostic ab root cause sab se upar dikhayegi. Update karke phir LAUNCH TIKTOK dabana hai."
+  "versionCode": 6,
+  "versionName": "0.3.2",
+  "apkUrl": "https://muse.ai/files/1378455528684967/1136277395430047/e2v4mvwrov64z8w1ozg69a0o/app-debug.apk",
+  "notes": "TikTok fix #2: ab guest ki apni Application class bhi chalegi (instantiate + onCreate) — asal apps ki duniya isi se banti hai. Native .so libraries bhi sahi raste pe lagayi hain. Agar ab bhi rukay, to guests/tiktok folder mein last_crash.txt aur launch_log.txt banengi — dono mujhe bhej dena, agla fix unhi pe lagega."
 }
