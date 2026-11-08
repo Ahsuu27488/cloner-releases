@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "apkUrl": "https://muse.ai/files/1378455528684967/1136277395430047/e2v4mvwrov64z8w1ozg69a0o/app-debug.apk",
-  "notes": "TikTok fix #2: ab guest ki apni Application class bhi chalegi (instantiate + onCreate) — asal apps ki duniya isi se banti hai. Native .so libraries bhi sahi raste pe lagayi hain. Agar ab bhi rukay, to guests/tiktok folder mein last_crash.txt aur launch_log.txt banengi — dono mujhe bhej dena, agla fix unhi pe lagega."
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "apkUrl": "https://muse.ai/files/1378455528684967/955103747387312/7ei0tysg1bdnbgjk9wh30sh1/app-debug.apk",
+  "notes": "TikTok fix #3: guest activity ko ab uski APNI theme milegi (manifest se) — AppCompat wali rukawat ka fix. Pichli dafa TikTok ka apna code setContentView tak gaya tha, theme pe ruka tha. Update karke phir LAUNCH TIKTOK dabana hai."
 }
