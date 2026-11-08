@@ -1,6 +1,1 @@
-{
-  "versionCode": 7,
-  "versionName": "0.3.3",
-  "apkUrl": "https://muse.ai/files/1378455528684967/955103747387312/7ei0tysg1bdnbgjk9wh30sh1/app-debug.apk",
-  "notes": "TikTok fix #3: guest activity ko ab uski APNI theme milegi (manifest se) — AppCompat wali rukawat ka fix. Pichli dafa TikTok ka apna code setContentView tak gaya tha, theme pe ruka tha. Update karke phir LAUNCH TIKTOK dabana hai."
-}
+{"apkUrl":"https://muse.ai/files/1378455528684967/2150784332179720/xrmqanbvpfpbhvjcoe0trevr/app-debug.apk","notes":"v0.3.4: Theme masle ki gehri jaanch. Guest ke resources ab bilkul alag (BlackBox walay tareeqay se), aur launch_log mein theme ka poora saboot likha jayega. App update karo, phir LAUNCH TIKTOK try karo. Agar band ho jaye to guests/tiktok folder se last_crash.txt aur launch_log.txt bhej dena.","versionCode":8,"versionName":"0.3.4"}
